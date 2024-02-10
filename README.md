@@ -15,3 +15,7 @@ The stubbed method returns ERR_NOT_ENOUGH_RESOURCES.
 
 # other missing functionality
 The InterShardMemory object (https://docs.screeps.com/api/#InterShardMemory) has functions which don't have return codes. At present this mod does not replace or stub the object and the functions on it. 
+
+# INSTALLATION
+
+To install the mod, copy missing-api-methods.js to the mods/ directory of your private server, and update the mods.json file with an entry.
